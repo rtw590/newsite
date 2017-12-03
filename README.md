@@ -1,2 +1,2 @@
 # newsite
-Working through a Django blog project
+Working through a Django blog project from Lynda
